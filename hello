@@ -1,0 +1,5 @@
+tupplelist=("x","y","z")
+b=list(tupplelist)
+b.append("j")
+tupplelist=tupple(b)
+print(tupplelist)
