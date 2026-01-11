@@ -1,0 +1,3 @@
+Fruits=("Banana","orange","Mango","Apple")
+a,b,c,d=Fruits
+print(b)
