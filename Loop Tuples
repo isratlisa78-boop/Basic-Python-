@@ -1,0 +1,6 @@
+fruits=("apple","banana","mango","cherry")
+#
+#(a,b,c,d)
+#
+for i in fruits:
+  print(i)
