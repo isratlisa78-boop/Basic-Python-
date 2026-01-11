@@ -1,0 +1,3 @@
+FamilyMembers=("Lisa","Lina","Liza","Pakhi","Baba","Ammu")
+(*a,)=FamilyMembers
+print(a)
